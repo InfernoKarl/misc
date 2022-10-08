@@ -13,3 +13,9 @@ https://www.roblox.com/games/9049840490/METAL-CHROME-Sonic-Speed-Simulator
 
 ### [Auto Grind Rails](Scripts/sonicgrindtime.lua) <sub><sup>`v1.0.0` *(Updated: 28/08/2022)*</sup></sub>
 Execute for auto grinding rails. Leave it running for ten minutes to complete the Metal Chrome Sonic event, feel free to keep playing while running. Working as of *28/08/2022*
+
+### Project Bursting Rage
+https://www.roblox.com/games/8311081337/FREE-FRUIT-Project-Bursting-Rage
+
+### [Infinite Money (max money, which is 1mil)](Scripts/projectburstinginfmoney.lua) <sub><sup>`v1.0.0` *(Updated: 08/10/2022)*</sup></sub>
+Execute for the max possible money in a short period of time (1mil cash). Working as of *08/10/2022*
