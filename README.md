@@ -19,3 +19,9 @@ https://www.roblox.com/games/8311081337/FREE-FRUIT-Project-Bursting-Rage
 
 ### [Infinite Money (max money, which is 1mil)](Scripts/projectburstinginfmoney.lua) <sub><sup>`v1.0.0` *(Updated: 08/10/2022)*</sup></sub>
 Execute for the max possible money in a short period of time (1mil cash). Working as of *08/10/2022*
+
+### The Legend of The Fallen Kingdom 2 RPG
+https://www.roblox.com/games/212007431/The-Legend-of-The-Fallen-Kingdom-2-RPG
+
+### [Infinite Stat Points](Scripts/projectburstinginfmoney.lua) <sub><sup>`v1.0.0` *(Updated: 24/11/2022)*</sup></sub>
+Execute for infinite stat points (2000 per stat is max). Don't put any stat points in Magic/Intelligence, its pointless. Working as of *24/11/2022*
