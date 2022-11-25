@@ -23,5 +23,5 @@ Execute for the max possible money in a short period of time (1mil cash). Workin
 ### The Legend of The Fallen Kingdom 2 RPG
 https://www.roblox.com/games/212007431/The-Legend-of-The-Fallen-Kingdom-2-RPG
 
-### [Infinite Stat Points](Scripts/projectburstinginfmoney.lua) <sub><sup>`v1.0.0` *(Updated: 24/11/2022)*</sup></sub>
+### [Infinite Stat Points](Scripts/tlotfk2-infstats.lua) <sub><sup>`v1.0.0` *(Updated: 24/11/2022)*</sup></sub>
 Execute for infinite stat points (2000 per stat is max). Don't put any stat points in Magic/Intelligence, its pointless. Working as of *24/11/2022*
