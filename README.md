@@ -25,3 +25,9 @@ https://www.roblox.com/games/212007431/The-Legend-of-The-Fallen-Kingdom-2-RPG
 
 ### [Infinite Stat Points](Scripts/tlotfk2-infstats.lua) <sub><sup>`v1.0.0` *(Updated: 24/11/2022)*</sup></sub>
 Execute for infinite stat points (2000 per stat is max). Don't put any stat points in Magic/Intelligence, its pointless. Working as of *24/11/2022*
+
+### Anime Idle Simulator
+https://www.roblox.com/games/10982284336/UPD1-Anime-Idle-Simulator
+
+### [All Gamepasses](Scripts/animeidlesimgamepasses.lua) <sub><sup>`v1.0.0` *(Updated: 02/18/2023)*</sup></sub>
+Execute for all gamepasses for free (Auto Level, 2x Yen, etc). Working as of *02/18/2023*
