@@ -29,5 +29,11 @@ Execute for infinite stat points (2000 per stat is max). Don't put any stat poin
 ### Anime Idle Simulator
 https://www.roblox.com/games/10982284336/UPD1-Anime-Idle-Simulator
 
-### [All Gamepasses](Scripts/animeidlesimgamepasses.lua) <sub><sup>`v1.0.0` *(Updated: 02/18/2023)*</sup></sub>
-Execute for all gamepasses for free (Auto Level, 2x Yen, etc). Working as of *02/18/2023*
+### [All Gamepasses](Scripts/animeidlesimgamepasses.lua) <sub><sup>`v1.0.0` *(Updated: 18/02/2023)*</sup></sub>
+Execute for all gamepasses for free (Auto Level, 2x Yen, etc). Working as of *18/02/2023*
+
+### Project XXL
+https://www.roblox.com/games/10320676839/Project-XXL-2-6#!
+
+### [Mob Autofarm](Scripts/projectxxlautofarm.lua) <sub><sup>`v1.0.0` *(Updated: 21/02/2023)*</sup></sub>
+Execute for a really laggy mob autofarm. Is this close to the worst thing I've ever written? Yes. Does it work? Also yes. Working as of *21/02/2023*
