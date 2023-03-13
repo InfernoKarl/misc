@@ -37,3 +37,9 @@ https://www.roblox.com/games/10320676839/Project-XXL-2-6#!
 
 ### [Mob Autofarm](Scripts/projectxxlautofarm.lua) <sub><sup>`v1.0.0` *(Updated: 21/02/2023)*</sup></sub>
 Execute for a really laggy mob autofarm. Is this close to the worst thing I've ever written? Yes. Does it work? Also yes. Working as of *21/02/2023*
+
+### Miner's Haven
+https://www.roblox.com/games/258258996/EVENT-Miners-Haven
+
+### [Box and Clover Farm](Scripts/autoclover&box.lua) <sub><sup>`v1.0.0` *(Updated: 12/03/2023)*</sup></sub>
+Execute to autofarm clovers and boxes. Script will probably stop working when the event ends, so I'll just turn it into a box farm after that. Working as of *12/03/2023*
