@@ -42,4 +42,4 @@ Execute for a really laggy mob autofarm. Is this close to the worst thing I've e
 https://www.roblox.com/games/258258996/EVENT-Miners-Haven
 
 ### [Box and Clover Farm](Scripts/autoclover&box.lua) <sub><sup>`v1.0.0` *(Updated: 12/03/2023)*</sup></sub>
-Execute to autofarm clovers and boxes. Script will probably stop working when the event ends, so I'll just turn it into a box farm after that. Working as of *12/03/2023*
+Execute to autofarm clovers and boxes. Script will probably stop working when the event ends, so I'll just turn it into a box farm after that. Originally for a friend, but I posted it on v3rm so I figured I might as well post it here too. Working as of *12/03/2023*
