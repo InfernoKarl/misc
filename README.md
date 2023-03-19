@@ -49,3 +49,9 @@ https://www.roblox.com/games/11846163207/Mage-Tycoon#!/
 
 ### [Autocrate](Scripts/autocrate.lua) <sub><sup>`v1.0.0` *(Updated: 18/03/2023)*</sup></sub>
 Execute to autofarm boxes. Credit to ExHackey on v3rm for the inspiration, they made a manual GUI version but I wanted to make an automated one. Working as of *18/03/2023*
+
+### Ninja : Ryu
+https://www.roblox.com/games/11811023210/Ninja-Ryu-NEW
+
+### [Infinite Wheel Spins](Scripts/infspins.lua) <sub><sup>`v1.0.0` *(Updated: 18/03/2023)*</sup></sub>
+Execute to infinitely spin the prize wheel. Working as of *18/03/2023*
