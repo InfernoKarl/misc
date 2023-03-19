@@ -1,4 +1,4 @@
-# misc
+# misc - ALL FUTURE SCRIPTS WILL BE IN https://github.com/InfernoKarl/opensrc
 miscellaneous scripts that do not need their own repo/I will not make more scripts for that game
 
 ### LUCKY BLOCKS Battlegrounds
