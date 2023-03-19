@@ -43,3 +43,9 @@ https://www.roblox.com/games/258258996/EVENT-Miners-Haven
 
 ### [Box and Clover Farm](Scripts/autoclover&box.lua) <sub><sup>`v1.0.0` *(Updated: 12/03/2023)*</sup></sub>
 Execute to autofarm clovers and boxes. Script will probably stop working when the event ends, so I'll just turn it into a box farm after that. Originally for a friend, but I posted it on v3rm so I figured I might as well post it here too. Working as of *12/03/2023*
+
+### Mage Tycoon
+https://www.roblox.com/games/11846163207/Mage-Tycoon#!/
+
+### [Autocrate](Scripts/autocrate.lua) <sub><sup>`v1.0.0` *(Updated: 18/03/2023)*</sup></sub>
+Execute to autofarm boxes. Credit to ExHackey on v3rm for the inspiration, they made a manual GUI version but I wanted to make an automated one. Working as of *18/03/2023*
