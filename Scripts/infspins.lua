@@ -1,6 +1,6 @@
-local ohString1 = "Spin"
+local spins = "Spin"
 
 while true do
-    game:GetService("ReplicatedStorage").RemoteEventFolder.UpdateManageClientEvent:FireServer(ohString1)
+    game:GetService("ReplicatedStorage").RemoteEventFolder.UpdateManageClientEvent:FireServer(spins)
     wait()
 end
